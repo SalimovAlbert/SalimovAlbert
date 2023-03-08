@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Albert Salimov, and I am a professional Machine Learning Engineer with 2 years of experience in the field of Artificial Intelligence and Machine Learning. 
 
 <!--
 **SalimovAlbert/SalimovAlbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
